@@ -36,5 +36,5 @@ console.log(student)
 // a boolean value.
 // Type your solution immediately below this line:
 
-student.attends-office-hours: true;
-console.log(student)
+// student.attends-office-hours: true;
+// console.log(student)
